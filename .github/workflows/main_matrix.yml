@@ -165,8 +165,6 @@ jobs:
         build-nrf52,
         build-rpi2040,
         build-stm32,
-        package-raspbian,
-        package-raspbian-armv7l,
         package-native,
       ]
     steps:
